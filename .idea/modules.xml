@@ -5,12 +5,18 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.commonMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosArm32Main.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosArm32Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosArm32Test.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosArm32Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.iosX64Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.jsMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.jsTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.jvmMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.jvmTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.mingwX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.mingwX64Main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.mingwX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.mingwX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.macosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.macosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.macosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.macosX64Test.iml" />
     </modules>
   </component>
 </project>
