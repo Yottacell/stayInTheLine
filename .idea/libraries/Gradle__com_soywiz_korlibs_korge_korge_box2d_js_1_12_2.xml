@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.korge:korge-box2d-js:1.12.2" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korge/korge-box2d-js/1.12.2/c9fb0fd33ca9ca2b1118094c34f54d98aafdf63d/korge-box2d-js-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korge/korge-box2d-js/1.12.2/d8005a7e6ae89034b926e3f940ab0034be04d1c1/korge-box2d-js-1.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

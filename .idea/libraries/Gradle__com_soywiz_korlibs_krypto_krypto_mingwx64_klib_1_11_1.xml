@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.krypto:krypto-mingwx64:klib:1.11.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.krypto/krypto-mingwx64/1.11.1/3680cacdafb22ea63ece09b7839ac75dfc411a76/krypto.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.krypto/krypto-mingwx64/1.11.1/6fce513f8caee7c4075dca9d22640f7b831f44bc/krypto-mingwx64-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

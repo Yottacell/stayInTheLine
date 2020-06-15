@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:atomicfu-mingwx64:klib:cinterop-interop:0.14.2" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-mingwx64/0.14.2/aaaff8c8c6adb347b3004c9b4a867af359720f18/atomicfu-cinterop-interop.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-mingwx64/0.14.2/e35888bd50cf633c070d37f49455ecb38bbdb241/atomicfu-mingwx64-0.14.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

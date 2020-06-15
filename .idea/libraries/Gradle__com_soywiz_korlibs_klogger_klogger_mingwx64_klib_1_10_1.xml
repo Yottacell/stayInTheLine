@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.klogger:klogger-mingwx64:klib:1.10.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.klogger/klogger-mingwx64/1.10.1/1d95cf57f811f012a9893ef2b5fa797c2ecaf294/klogger.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.klogger/klogger-mingwx64/1.10.1/c313abfcc8fa3f89f36546fe262dc8f1ae10a169/klogger-mingwx64-1.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

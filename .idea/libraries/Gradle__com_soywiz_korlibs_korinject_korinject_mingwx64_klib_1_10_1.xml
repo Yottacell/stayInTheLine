@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.korinject:korinject-mingwx64:klib:1.10.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korinject/korinject-mingwx64/1.10.1/7324ee931d45c27c5902438e872ad232e4741288/korinject.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korinject/korinject-mingwx64/1.10.1/7ee58a56d9713d81125ba6a508d9ae06363046db/korinject-mingwx64-1.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

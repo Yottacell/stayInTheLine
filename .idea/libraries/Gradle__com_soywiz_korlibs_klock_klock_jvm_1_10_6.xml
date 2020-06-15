@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.klock:klock-jvm:1.10.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.klock/klock-jvm/1.10.6/925246277b37d60ec5bafd2c910d1c8f895fdd3b/klock-jvm-1.10.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.klock/klock-jvm/1.10.6/2c2fa34c8055c894c34fd22c50425857dd3e1628/klock-jvm-1.10.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
