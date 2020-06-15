@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.jvmTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.macosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.macosX64Main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.macosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.macosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.mingwX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.mingwX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engineEmi_Template.mingwX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/engineEmi_Template.mingwX64Test.iml" />
     </modules>
   </component>
 </project>

@@ -5,8 +5,8 @@
       <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="true" externalProjectId="engineEmi_Template">
         <dependsOnModuleNames>engineEmi_Template:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>engineEmi_Template.jsMain</sourceSet>
           <sourceSet>engineEmi_Template.commonTest</sourceSet>
+          <sourceSet>engineEmi_Template.jsMain</sourceSet>
           <sourceSet>engineEmi_Template.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
@@ -59,40 +59,40 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.3.72" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test-common:1.3.72" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.3.72" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: me.emig:engineEmi-metadata:0.60" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: me.emig:engineEmi-metadata:0.85" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.72" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korge:korge-metadata:1.12.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: me.emig:engineEmi-js:0.60" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korge:korge-js:1.12.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korgw:korgw-metadata:1.12.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korgw:korgw-js:1.12.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korim:korim-metadata:1.12.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korau:korau-metadata:1.11.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korim:korim-js:1.12.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korau:korau-js:1.11.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korio:korio-metadata:1.10.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.klock:klock-metadata:1.10.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korio:korio-js:1.10.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.klock:klock-js:1.10.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kmem:kmem-metadata:1.10.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kmem:kmem-js:1.10.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korma:korma-metadata:1.11.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kds:kds-metadata:1.10.7" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korma:korma-js:1.11.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kds:kds-js:1.10.7" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.3.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korge:korge-box2d-metadata:1.12.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korge:korge-metadata:1.12.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: me.emig:engineEmi-js:0.85" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korge:korge-js:1.12.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korgw:korgw-metadata:1.12.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korgw:korgw-js:1.12.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korim:korim-metadata:1.12.19" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korau:korau-metadata:1.11.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korim:korim-js:1.12.19" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korau:korau-js:1.11.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korio:korio-metadata:1.11.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.klock:klock-metadata:1.11.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korio:korio-js:1.11.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.klock:klock-js:1.11.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kmem:kmem-metadata:1.10.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kmem:kmem-js:1.10.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korma:korma-metadata:1.11.15" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kds:kds-metadata:1.10.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korma:korma-js:1.11.15" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kds:kds-js:1.10.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.3.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korge:korge-box2d-metadata:1.12.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.7" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.krypto:krypto-metadata:1.11.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.3.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korge:korge-box2d-js:1.12.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.3.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korge:korge-box2d-js:1.12.9" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korinject:korinject-metadata:1.10.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.klogger:klogger-metadata:1.10.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.krypto:krypto-js:1.11.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.korinject:korinject-js:1.10.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.klogger:klogger-js:1.10.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kbox2d:kbox2d-metadata:0.6.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.70" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.71" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.soywiz.korlibs.kbox2d:kbox2d-js:0.6.1" level="project" />
   </component>
