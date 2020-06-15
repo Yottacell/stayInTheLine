@@ -23,7 +23,6 @@ suspend fun main(){
          * Code um die Engine zu konfigurieren.
          */
         init {
-            println("TEST")
         }
 
         /**
