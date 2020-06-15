@@ -1,6 +1,6 @@
-import com.soywiz.korev.Key
+import com.soywiz.korev.*
+import com.soywiz.korge.view.*
 import me.emig.engineEmi.*
-import me.emig.engineEmi.input.Keyboard
 
 /**
  * Startpunkt für alle Programme.
@@ -16,40 +16,15 @@ import me.emig.engineEmi.input.Keyboard
 
 var kreis = Spielkreis()
 
-suspend fun main(){
-    engine.run {
-
-        /**
-         * Code um die Engine zu konfigurieren.
-         */
-        init {
+suspend fun main() = Engine(){
+    val kreis = Spielkreis()
+    addChild(kreis)
+    kreis.addUpdater {
+        if (views.keys.pressing(Key.LEFT)) {
+            x-=10.0
         }
-
-        /**
-         * Code der VOR dem Aufbau des Views ausgeführt wird
-         */
-        viewWillLoad {
-            register(kreis)
-        }
-
-        /**
-         * Code, der NACH dem Aufbau des Views ausgeführt wird
-         */
-        viewDidLoad {
-            kreis.apply {
-                animationRoutine = {
-                    if (Keyboard.isKeyDown(Key.LEFT)) {
-                        kreis.x = kreis.x - 10
-
-                    }
-                    else if (Keyboard.isKeyDown(Key.RIGHT)) {
-                        kreis.x = kreis.x + 10
-
-                    }
-                }
-            }
-
-            start()
+        if (views.keys.pressing(Key.RIGHT)) {
+            x+=10.0
         }
     }
 }
