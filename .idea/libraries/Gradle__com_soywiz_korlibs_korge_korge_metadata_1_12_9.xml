@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.korge:korge-metadata:1.12.9" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korge/korge-metadata/1.12.9/f863e7b434e26582598e1e69c9e2f725e5934dbb/korge-metadata-1.12.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korge/korge-metadata/1.12.9/7cfbec844d06fc7f7bd0c5bd947c00fd035da088/korge-metadata-1.12.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

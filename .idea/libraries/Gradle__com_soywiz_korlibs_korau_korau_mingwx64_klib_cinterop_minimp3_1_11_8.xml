@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.korau:korau-mingwx64:klib:cinterop-minimp3:1.11.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korau/korau-mingwx64/1.11.8/a33c0f12eca31aef9269e14ea8e4056c4ce626dd/korau-cinterop-minimp3.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korau/korau-mingwx64/1.11.8/d846598e3bdbe8b7d9074cfdfc95a11dab537c80/korau-mingwx64-1.11.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

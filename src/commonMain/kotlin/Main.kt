@@ -1,6 +1,8 @@
 import com.soywiz.korev.*
 import com.soywiz.korge.view.*
+import com.soywiz.korim.color.Colors
 import me.emig.engineEmi.*
+import me.emig.engineEmi.graphics.shapes.Rechteck
 
 /**
  * Startpunkt für alle Programme.
@@ -18,13 +20,37 @@ var kreis = Spielkreis()
 
 suspend fun main() = Engine(){
     val kreis = Spielkreis()
+
+    val r1 = Rechteck(175, -125,400,50, fillColor = Colors.BLACK)
+    val r2 = Rechteck(275, -125,400,50, fillColor = Colors.BLACK)
+
+    val rechtecke = arrayOf(r1, r2)
+
+    rechtecke.forEach {
+        addChild(it)
+    }
+
     addChild(kreis)
     kreis.addUpdater {
         if (views.keys.pressing(Key.LEFT)) {
-            x-=10.0
+            x-=5.0
         }
         if (views.keys.pressing(Key.RIGHT)) {
-            x+=10.0
+            x+=5.0
+        }
+    }
+
+    addUpdater {
+        rechtecke.forEach {
+            it.y += 5
+        }
+    }
+
+    onCollision {
+        addUpdater {
+            rechtecke.forEach {
+                    it.y -= 5
+            }
         }
     }
 }

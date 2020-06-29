@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.emig:engineEmi-mingwx64:klib:0.85">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.emig/engineEmi-mingwx64/0.85/d5c5ed091d93a856b2ead49c29f56181c6e4518e/engineEmi.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.emig/engineEmi-mingwx64/0.85/2f01d5492bb95039e48741e727a5e708d0381731/engineEmi-mingwx64-0.85-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

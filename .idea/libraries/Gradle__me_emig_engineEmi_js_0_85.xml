@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.emig:engineEmi-js:0.85" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.emig/engineEmi-js/0.85/38291e1bbd6f70e9b0ceedc17be1db2174d517bb/engineEmi-js-0.85.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.emig/engineEmi-js/0.85/2da6e62fdb5a0795cb28cc283c9b392bf899932/engineEmi-js-0.85-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

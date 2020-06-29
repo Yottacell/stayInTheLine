@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.korim:korim-jvm:1.12.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korim/korim-jvm/1.12.19/5ecd78c94fc38a6f6a9f7ead03ba9e5d94cc87c6/korim-jvm-1.12.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korim/korim-jvm/1.12.19/95d37675e7ca4e550838d892ca3a23d97673277/korim-jvm-1.12.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

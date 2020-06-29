@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.korge:korge-mingwx64:klib:1.12.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korge/korge-mingwx64/1.12.9/151ac7ce919cd662f3e75445fdafadf7c5c82f6d/korge.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korge/korge-mingwx64/1.12.9/9ed9672cf6c3f08a804fc3c92e80fbed698952eb/korge-mingwx64-1.12.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

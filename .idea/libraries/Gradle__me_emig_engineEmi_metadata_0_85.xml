@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.emig:engineEmi-metadata:0.85" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.emig/engineEmi-metadata/0.85/10e5c290013783d3019462913a840fdefca80ff2/engineEmi-metadata-0.85.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.emig/engineEmi-metadata/0.85/5d5db9816b6bf3d2c29d355c8273dd58c27d640f/engineEmi-metadata-0.85-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

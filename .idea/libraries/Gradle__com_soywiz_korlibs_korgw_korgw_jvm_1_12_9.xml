@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz.korlibs.korgw:korgw-jvm:1.12.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korgw/korgw-jvm/1.12.9/143561fdc74a2fe1b8c47af739ba30eaca615962/korgw-jvm-1.12.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korgw/korgw-jvm/1.12.9/3c2ea0da10f84b3f6b1b4e3c16ff3bba613ba1d/korgw-jvm-1.12.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
