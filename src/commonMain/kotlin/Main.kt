@@ -19,12 +19,24 @@ import me.emig.engineEmi.graphics.shapes.Rechteck
 var kreis = Spielkreis()
 
 suspend fun main() = Engine(){
+
     val kreis = Spielkreis()
 
+    val r0 = Rechteck(175, 275,50,150, fillColor = Colors.BLACK)
     val r1 = Rechteck(175, -125,400,50, fillColor = Colors.BLACK)
-    val r2 = Rechteck(275, -125,400,50, fillColor = Colors.BLACK)
+    val r2 = Rechteck(275, -225,500,50, fillColor = Colors.BLACK)
+    val r3 = Rechteck(-25, -125,50, 200, fillColor = Colors.BLACK)
+    val r4 = Rechteck(75, -275,50,250, fillColor = Colors.BLACK)
+    val r5 = Rechteck(-25, -425,300,50, fillColor = Colors.BLACK)
+    val r6 = Rechteck(-25, -475,50,450, fillColor = Colors.BLACK)
+    val r7 = Rechteck(250, -325,50,225, fillColor = Colors.BLACK)
+    val r8 = Rechteck(475, -725,450,50, fillColor = Colors.BLACK)
+    val r9 = Rechteck(375, -725,100,50, fillColor = Colors.BLACK)
+    val r10 = Rechteck(375, -550,75,50, fillColor = Colors.BLACK)
+    val r11 = Rechteck(300, -550,50,75, fillColor = Colors.BLACK)
+    val r12 = Rechteck(250, -725,225,50, fillColor = Colors.BLACK)
 
-    val rechtecke = arrayOf(r1, r2)
+    val rechtecke = arrayOf(r0, r1, r2, r3, r4, r5, r6, r7, r8, r9, r10, r11, r12)
 
     rechtecke.forEach {
         addChild(it)
@@ -33,24 +45,24 @@ suspend fun main() = Engine(){
     addChild(kreis)
     kreis.addUpdater {
         if (views.keys.pressing(Key.LEFT)) {
-            x-=5.0
+            x-= 6
         }
         if (views.keys.pressing(Key.RIGHT)) {
-            x+=5.0
+            x+= 6
         }
     }
 
     addUpdater {
         rechtecke.forEach {
-            it.y += 5
+            it.y += 2
         }
     }
 
-    onCollision {
+    /*onCollision() {
         addUpdater {
             rechtecke.forEach {
                     it.y -= 5
             }
         }
-    }
+    }*/
 }
