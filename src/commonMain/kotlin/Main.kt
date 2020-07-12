@@ -55,11 +55,11 @@ suspend fun main() = Engine(){
 
     addUpdater {
         rechtecke.forEach {
-            it.y += 2
+            it.y += 1.75
         }
     }
 
-    /*onCollision() {
+    /*onCollision(kreis.collidesWith(rechtecke)) {
         addUpdater {
             rechtecke.forEach {
                     it.y -= 5
